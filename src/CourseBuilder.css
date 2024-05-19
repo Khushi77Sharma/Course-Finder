@@ -1,0 +1,25 @@
+.course-builder {
+    background: white;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .course-builder h1 {
+    margin-bottom: 20px;
+  }
+  
+  .add-button {
+    background-color: #ff4d4f;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  .add-button:hover {
+    background-color: #ff7875;
+  }
+  

@@ -1,0 +1,14 @@
+.module {
+    margin-bottom: 20px;
+  }
+  
+  .module h2 {
+    margin-bottom: 10px;
+  }
+  
+  .items {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+  }
+  

@@ -1,0 +1,28 @@
+.item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .item:last-child {
+    border-bottom: none;
+  }
+  
+  .item-type {
+    color: #ff4d4f;
+  }
+  
+  .edit-button, .delete-button {
+    background: none;
+    border: none;
+    color: #ff4d4f;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  
+  .delete-button:hover {
+    color: #d32f2f;
+  }
+  
